@@ -10,11 +10,11 @@ import { ShoppingBag, ChevronRight, Check } from 'lucide-react';
 import { useCart } from '@/context/CartContext';
 
 const weddingProducts = [
-    { id: "wed-1", title: "The Royal Brass Chest", img: "/assets/images/products/wedding/wed1.jpg" },
-    { id: "wed-2", title: "Silver Inlay Thali Set", img: "/assets/images/products/wedding/wed3.jpg" },
-    { id: "wed-3", title: "Moroccan Tea Lantern Suite", img: "/assets/images/products/wedding/wed4.jpg" },
-    { id: "wed-4", title: "Zardozi Handcrafted Pouch", img: "/assets/images/products/wedding/wed5.jpg" },
-    { id: "wed-5", title: "Heritage Sweet Box", img: "/assets/images/products/wedding/wed6.jpg" },
+    { id: "wed-1", title: "Peacock Kumkum Plate", img: "/assets/images/products/wedding/peacock-kumkum-plate.jpg" },
+    { id: "wed-2", title: "Pichwai Brass Plates", img: "/assets/images/products/wedding/pichwai-brass-plates.jpg" },
+    { id: "wed-3", title: "Bespoke Favor Box", img: "/assets/images/products/wedding/wedding-favor-box.jpg" },
+    { id: "wed-4", title: "Hand-Painted Tiffins", img: "/assets/images/products/wedding/hand-painted-tiffin.jpg" },
+    { id: "wed-5", title: "Jute Hamper Bags", img: "/assets/images/products/wedding/jute-hamper-bags.jpg" },
     { id: "wed-6", title: "Copper Hammered Tumblers", img: "/assets/images/categories/wedding.jpg" },
 ];
 

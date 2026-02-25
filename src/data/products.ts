@@ -11,11 +11,51 @@ export interface Product {
 
 export const allProducts: Product[] = [
     // Wedding Products
-    { id: "wed-1", title: "The Royal Brass Chest", img: "/assets/images/products/wedding/wed1.jpg", category: "Wedding Return Gifts", href: "/collections/wedding" },
-    { id: "wed-2", title: "Silver Inlay Thali Set", img: "/assets/images/products/wedding/wed3.jpg", category: "Wedding Return Gifts", href: "/collections/wedding" },
-    { id: "wed-3", title: "Moroccan Tea Lantern Suite", img: "/assets/images/products/wedding/wed4.jpg", category: "Wedding Return Gifts", href: "/collections/wedding" },
-    { id: "wed-4", title: "Zardozi Handcrafted Pouch", img: "/assets/images/products/wedding/wed5.jpg", category: "Wedding Return Gifts", href: "/collections/wedding" },
-    { id: "wed-5", title: "Heritage Sweet Box", img: "/assets/images/products/wedding/wed6.jpg", category: "Wedding Return Gifts", href: "/collections/wedding" },
+    { 
+        id: "wed-1", 
+        title: "Peacock Kumkum Plate", 
+        subtitle: "Meenakari Enamel Brass Plate",
+        description: "A stunning meenakari peacock-themed brass plate featuring twin bowls for Haldi and Kumkum. Hand-painted with vibrant red and green enamel patterns, it adds a touch of royal heritage to any ceremony.",
+        img: "/assets/images/products/wedding/peacock-kumkum-plate.jpg", 
+        category: "Wedding Return Gifts", 
+        href: "/collections/wedding" 
+    },
+    { 
+        id: "wed-2", 
+        title: "Pichwai Brass Plates", 
+        subtitle: "Hand-painted Divine Artistry",
+        description: "Exquisite brass plates featuring traditional Pichwai motifs of Kamdhenu cows and lotus blooms. Each plate is a vibrant piece of Indian folk art, perfect as a sacred keepsake for wedding guests.",
+        img: "/assets/images/products/wedding/pichwai-brass-plates.jpg", 
+        category: "Wedding Return Gifts", 
+        href: "/collections/wedding" 
+    },
+    { 
+        id: "wed-3", 
+        title: "Bespoke Favor Box", 
+        subtitle: "Personalized Wedding Stationary",
+        description: "Elegant maroon-and-gold favor boxes adorned with intricate paisley prints and custom cartoon couple illustrations. A premium way to present sweets, dry fruits, or small tokens of gratitude.",
+        img: "/assets/images/products/wedding/wedding-favor-box.jpg", 
+        category: "Wedding Return Gifts", 
+        href: "/collections/wedding" 
+    },
+    { 
+        id: "wed-4", 
+        title: "Hand-Painted Tiffins", 
+        subtitle: "Artisan Enamelware Set",
+        description: "Traditional stainless steel tiffins transformed into modern masterpieces with hand-painted floral patterns. A unique and functional return gift that combines utility with artisanal charm.",
+        img: "/assets/images/products/wedding/hand-painted-tiffin.jpg", 
+        category: "Wedding Return Gifts", 
+        href: "/collections/wedding" 
+    },
+    { 
+        id: "wed-5", 
+        title: "Jute Hamper Bags", 
+        subtitle: "Eco-Luxury Gift Totes",
+        description: "Sustainable jute tote bags accented with delicate white lace and satin ribbons. These elegant hampers are spacious enough for assorted gifts and carry a message of mindful gifting.",
+        img: "/assets/images/products/wedding/jute-hamper-bags.jpg", 
+        category: "Wedding Return Gifts", 
+        href: "/collections/wedding" 
+    },
     { id: "wed-6", title: "Copper Hammered Tumblers", img: "/assets/images/categories/wedding.jpg", category: "Wedding Return Gifts", href: "/collections/wedding" },
 
     // Women's Day Products
