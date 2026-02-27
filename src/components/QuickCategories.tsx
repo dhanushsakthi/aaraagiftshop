@@ -28,7 +28,7 @@ const quickCategories = [
     },
     {
         name: "Award Gifts",
-        img: "/assets/images/awards/award_thumb.jpg",
+        img: "/assets/images/awards/wooden-star-award.jpg",
         href: "/collections/awards"
     },
     {
