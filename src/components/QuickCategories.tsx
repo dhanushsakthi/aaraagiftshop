@@ -18,17 +18,17 @@ const quickCategories = [
     },
     {
         name: "Promotional Gifts",
-        img: "/assets/images/categories/tshirts.jpg",
+        img: "/assets/images/insta/insta2.jpg",
         href: "/collections/promotional"
     },
     {
         name: "T-Shirts",
-        img: "/assets/images/insta/insta2.jpg",
+        img: "/assets/images/categories/tshirts.jpg",
         href: "/collections/apparel"
     },
     {
         name: "Award Gifts",
-        img: "/assets/images/insta/insta4.jpg",
+        img: "/assets/images/awards/award_thumb.jpg",
         href: "/collections/awards"
     },
     {
