@@ -83,15 +83,6 @@ export const allProducts: Product[] = [
         category: "Wedding Return Gifts",
         href: "/collections/wedding"
     },
-    {
-        id: "wed-9",
-        title: "Modern Executive Suite",
-        subtitle: "Integrated Tech Set",
-        description: "A 4-in-1 executive collection featuring a wireless mouse, signature pen, ultra-slim power bank, and a 16GB flash drive. A sophisticated return gift for the modern professional or corporate wedding attendee.",
-        img: "/assets/images/return_gift/tech-executive-combo.png",
-        category: "Wedding Return Gifts",
-        href: "/collections/wedding"
-    },
 
     // Women's Day Products
     { id: "wd-4", title: "The Silk Bloom Box", img: "/assets/images/products/womens/w2.jpg", category: "Women's Day Gifts", href: "/collections/womens-day" },
