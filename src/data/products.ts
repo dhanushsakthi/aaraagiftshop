@@ -56,7 +56,42 @@ export const allProducts: Product[] = [
         category: "Wedding Return Gifts",
         href: "/collections/wedding"
     },
-    { id: "wed-6", title: "Copper Hammered Tumblers", img: "/assets/images/categories/wedding.jpg", category: "Wedding Return Gifts", href: "/collections/wedding" },
+    {
+        id: "wed-6",
+        title: "Copper Hammered Duo",
+        subtitle: "Lustrous Healthware Set",
+        description: "A premium hammered copper bottle accompanied by two matching tumblers. Known for its Ayurvedic benefits and timeless aesthetic, this set is a perfect blend of wellness and elegance for your guests.",
+        img: "/assets/images/return_gift/copper-hammered-set.jpg",
+        category: "Wedding Return Gifts",
+        href: "/collections/wedding"
+    },
+    {
+        id: "wed-7",
+        title: "Meenakari Blossom Dibbi",
+        subtitle: "Artisan Pink Treasure Box",
+        description: "A delicate pink Meenakari container featuring hand-painted floral motifs and gold-plated rims. Perfect for storing jewelry or sacred offerings, it's a vibrant keepsake of traditional craftsmanship.",
+        img: "/assets/images/return_gift/meenakari-pink-dibbi.jpg",
+        category: "Wedding Return Gifts",
+        href: "/collections/wedding"
+    },
+    {
+        id: "wed-8",
+        title: "Empire Brass Incense Burner",
+        subtitle: "Sacred Aroma Diffuser",
+        description: "A majestic brass incense burner with a tea-light base and adjustable aroma tray. Its regal design and polished finish make it an ideal spiritual gift that brings peace and fragrance to any home.",
+        img: "/assets/images/return_gift/brass-incense-burner.png",
+        category: "Wedding Return Gifts",
+        href: "/collections/wedding"
+    },
+    {
+        id: "wed-9",
+        title: "Modern Executive Suite",
+        subtitle: "Integrated Tech Set",
+        description: "A 4-in-1 executive collection featuring a wireless mouse, signature pen, ultra-slim power bank, and a 16GB flash drive. A sophisticated return gift for the modern professional or corporate wedding attendee.",
+        img: "/assets/images/return_gift/tech-executive-combo.png",
+        category: "Wedding Return Gifts",
+        href: "/collections/wedding"
+    },
 
     // Women's Day Products
     { id: "wd-4", title: "The Silk Bloom Box", img: "/assets/images/products/womens/w2.jpg", category: "Women's Day Gifts", href: "/collections/womens-day" },

@@ -15,7 +15,10 @@ const weddingProducts = [
     { id: "wed-3", title: "Bespoke Favor Box", img: "/assets/images/return_gift/wedding-favor-box.jpg" },
     { id: "wed-4", title: "Hand-Painted Tiffins", img: "/assets/images/return_gift/hand-painted-tiffin-set.jpg" },
     { id: "wed-5", title: "Jute Hamper Bags", img: "/assets/images/return_gift/jute-hamper-bags.jpg" },
-    { id: "wed-6", title: "Copper Hammered Tumblers", img: "/assets/images/categories/wedding.jpg" },
+    { id: "wed-6", title: "Copper Hammered Duo", img: "/assets/images/return_gift/copper-hammered-set.jpg" },
+    { id: "wed-7", title: "Meenakari Blossom Dibbi", img: "/assets/images/return_gift/meenakari-pink-dibbi.jpg" },
+    { id: "wed-8", title: "Empire Brass Incense Burner", img: "/assets/images/return_gift/brass-incense-burner.png" },
+    { id: "wed-9", title: "Modern Executive Suite", img: "/assets/images/return_gift/tech-executive-combo.png" },
 ];
 
 export default function WeddingPage() {
