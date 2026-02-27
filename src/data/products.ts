@@ -396,4 +396,54 @@ export const allProducts: Product[] = [
         href: "/collections/branded",
         tag: "Designer Series"
     },
+    {
+        id: "lux-6",
+        title: "Chanel Rose Aura Suite",
+        subtitle: "Signature Perfume Ensemble",
+        description: "A symphony of floral elegance and classic luxury. This curated Chanel perfume suite features the iconic Chance Eau Tendre, accompanied by a crystalline limited-edition flacon and a handcrafted silk camellia brooch, all presented in a signature rose-blush presentation box.",
+        img: "/assets/images/branded/chanel-perfume-set.png",
+        category: "Branded Gift",
+        href: "/collections/branded",
+        tag: "Iconic Luxury"
+    },
+    {
+        id: "lux-7",
+        title: "The Emerald Grove Set",
+        subtitle: "Modern Minimalist Jewelry",
+        description: "Exquisite craftsmanship meets botanical inspiration. This 'Gatherer's Grove' collection features emerald-cut green cubic zirconia earrings set in 18k gold vermeil. A testament to modern minimalism and sophisticated brand identity.",
+        img: "/assets/images/branded/gatherers-grove-jewelry.png",
+        category: "Branded Gift",
+        href: "/collections/branded",
+        tag: "Artisanal Gold"
+    },
+    {
+        id: "lux-8",
+        title: "Southery Pearl Heritage Collection",
+        subtitle: "Lustrous Gemstone Curation",
+        description: "Where time-honored elegance meets contemporary design. This Southery heritage suite includes graduated freshwater pearl necklaces and matching rose-quartz accented earrings, each meticulously mounted on signature branded presentation cards.",
+        img: "/assets/images/branded/southery-pearl-collection.png",
+        category: "Branded Gift",
+        href: "/collections/branded",
+        tag: "Heritage Edition"
+    },
+    {
+        id: "lux-9",
+        title: "Celestial Voyager Mugs",
+        subtitle: "Zodiac Constellation Pair",
+        description: "Navigate your mornings with the cosmos. These premium ceramic mugs features hand-painted gold constellation patterns for 'Aquarius' and 'Leo', equipped with ergonomic gold-plated handles and matching constellation stirrers.",
+        img: "/assets/images/branded/zodiac-constellation-mugs.png",
+        category: "Branded Gift",
+        href: "/collections/branded",
+        tag: "Bespoke Decor"
+    },
+    {
+        id: "lux-10",
+        title: "The Navigator's Tech Wrap",
+        subtitle: "Full-Grain Leather Pouch",
+        description: "Sophistication in every stitch. This navy blue perforated full-grain leather tech wrap provides a luxurious sanctuary for your essential audio cables and accessories, featuring gold-tone hardware and signature 'that's a wrap' branding.",
+        img: "/assets/images/branded/leather-tech-wrap.png",
+        category: "Branded Gift",
+        href: "/collections/branded",
+        tag: "Executive Tech"
+    },
 ];

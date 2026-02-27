@@ -36,6 +36,36 @@ const brandedProducts = [
         tag: "Designer",
         subtitle: "Coach Companion"
     },
+    {
+        title: "Chanel Rose Aura Suite",
+        img: "/assets/images/branded/chanel-perfume-set.png",
+        tag: "Iconic",
+        subtitle: "Perfume Ensemble"
+    },
+    {
+        title: "The Emerald Grove Set",
+        img: "/assets/images/branded/gatherers-grove-jewelry.png",
+        tag: "Artisanal",
+        subtitle: "Minimalist Jewelry"
+    },
+    {
+        title: "Southery Pearl Collection",
+        img: "/assets/images/branded/southery-pearl-collection.png",
+        tag: "Heritage",
+        subtitle: "Gemstone Curation"
+    },
+    {
+        title: "Celestial Voyager Mugs",
+        img: "/assets/images/branded/zodiac-constellation-mugs.png",
+        tag: "Bespoke",
+        subtitle: "Zodiac Constellation Pair"
+    },
+    {
+        title: "The Navigator's Tech Wrap",
+        img: "/assets/images/branded/leather-tech-wrap.png",
+        tag: "Executive",
+        subtitle: "Leather Tech Wrap"
+    },
 ];
 
 const BrandedSection = () => {
