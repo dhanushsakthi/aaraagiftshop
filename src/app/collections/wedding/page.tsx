@@ -18,6 +18,8 @@ const weddingProducts = [
     { id: "wed-6", title: "Copper Hammered Duo", img: "/assets/images/return_gift/copper-hammered-set.jpg" },
     { id: "wed-7", title: "Meenakari Blossom Dibbi", img: "/assets/images/return_gift/meenakari-pink-dibbi.jpg" },
     { id: "wed-8", title: "Empire Brass Incense Burner", img: "/assets/images/return_gift/brass-incense-burner.png" },
+    { id: "wed-9", title: "Traditional Ceramic Achaar Jar", img: "/assets/images/return_gift/traditional-ceramic-jar.jpg" },
+    { id: "wed-10", title: "Heritage Floral Favor Box", img: "/assets/images/return_gift/heritage-floral-box.jpg" },
 ];
 
 export default function WeddingPage() {

@@ -83,6 +83,24 @@ export const allProducts: Product[] = [
         category: "Wedding Return Gifts",
         href: "/collections/wedding"
     },
+    {
+        id: "wed-9",
+        title: "Traditional Ceramic Achaar Jar",
+        subtitle: "Handcrafted Mini Martaban",
+        description: "A charming handcrafted ceramic jar, traditionally used for pickles (Achaar), now reimagined as a timeless return gift. Featuring classic brown and cream glazing, it brings a touch of vintage Indian heritage to any kitchen or pooja room.",
+        img: "/assets/images/return_gift/traditional-ceramic-jar.jpg",
+        category: "Wedding Return Gifts",
+        href: "/collections/wedding"
+    },
+    {
+        id: "wed-10",
+        title: "Heritage Floral Favor Box",
+        subtitle: "Elegant Ethnic Gift Packaging",
+        description: "An exquisitely designed gift box adorned with traditional floral patterns and vibrant ethnic motifs. Perfect for presenting sweets, dry fruits, or small tokens of appreciation, adding an extra layer of elegance to your special occasion.",
+        img: "/assets/images/return_gift/heritage-floral-box.jpg",
+        category: "Wedding Return Gifts",
+        href: "/collections/wedding"
+    },
 
     // Women's Day Products
     { id: "wd-4", title: "The Silk Bloom Box", img: "/assets/images/products/womens/w2.jpg", category: "Women's Day Gifts", href: "/collections/womens-day" },
