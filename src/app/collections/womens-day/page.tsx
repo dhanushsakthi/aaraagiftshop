@@ -8,15 +8,10 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { ShoppingBag, ChevronRight, Check } from 'lucide-react';
 import { useCart } from '@/context/CartContext';
+import { allProducts } from '@/data/products';
 
-const products = [
-    { id: "wd-4", title: "The Silk Bloom Box", img: "/assets/images/products/womens/w2.jpg" },
-    { id: "wd-5", title: "Rose Quartz Wellness Kit", img: "/assets/images/products/womens/w3.jpg" },
-    { id: "wd-6", title: "Midnight Jasmine Suite", img: "/assets/images/products/womens/w5.jpg" },
-    { id: "wd-1", title: "Botanical Gold Chest", img: "/assets/images/insta/2.jpg" },
-    { id: "wd-2", title: "Lavender & Lace Hamper", img: "/assets/images/insta/3.jpg" },
-    { id: "wd-3", title: "Organic Tea Crate", img: "/assets/images/insta/4.jpg" },
-];
+// Filter Women's Day products from the main catalog
+const products = allProducts.filter(p => p.category === "Women's Day Gifts");
 
 export default function WomensDayPage() {
     const { addToCart } = useCart();
