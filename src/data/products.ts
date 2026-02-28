@@ -102,14 +102,6 @@ export const allProducts: Product[] = [
         href: "/collections/wedding"
     },
 
-    // Women's Day Products
-    { id: "wd-4", title: "The Silk Bloom Box", img: "/assets/images/products/womens/w2.jpg", category: "Women's Day Gifts", href: "/collections/womens-day" },
-    { id: "wd-5", title: "Rose Quartz Wellness Kit", img: "/assets/images/products/womens/w3.jpg", category: "Women's Day Gifts", href: "/collections/womens-day" },
-    { id: "wd-6", title: "Midnight Jasmine Suite", img: "/assets/images/products/womens/w5.jpg", category: "Women's Day Gifts", href: "/collections/womens-day" },
-    { id: "wd-1", title: "Botanical Gold Chest", img: "/assets/images/insta/2.jpg", category: "Women's Day Gifts", href: "/collections/womens-day" },
-    { id: "wd-2", title: "Lavender & Lace Hamper", img: "/assets/images/insta/3.jpg", category: "Women's Day Gifts", href: "/collections/womens-day" },
-    { id: "wd-3", title: "Organic Tea Crate", img: "/assets/images/insta/4.jpg", category: "Women's Day Gifts", href: "/collections/womens-day" },
-
     // Corporate Products
     { id: "corp-1", title: "Executive Gift Combo", subtitle: "Branded combo set with pen, diary & bottle", img: "/assets/images/corporate/combo1.jpeg", category: "Corporate Studio", href: "/corporate" },
     { id: "corp-2", title: "Premium Desk Combo", subtitle: "Complete desk essentials gift set", img: "/assets/images/corporate/combo2.jpeg", category: "Corporate Studio", href: "/corporate" },
