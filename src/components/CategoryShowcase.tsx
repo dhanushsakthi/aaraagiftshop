@@ -10,7 +10,7 @@ const categories = [
     {
         title: "Women's Day Specials",
         desc: "Curated limited editions to celebrate extraordinary women.",
-        img: "/assets/images/categories/return-gifts.jpg",
+        img: "/assets/images/categories/womens-day-fixed.jpg",
         href: "/collections/womens-day",
         span: "lg:col-span-2 lg:row-span-2"
     },

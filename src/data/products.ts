@@ -1152,5 +1152,131 @@ export const allProducts: Product[] = [
         img: "/assets/images/return_gift/soup-bowl-combo-blue.jpg",
         category: "Wedding Return Gifts",
         href: "/collections/wedding"
+    },
+    {
+        id: "wd-1",
+        title: "Women's Day Special Mug",
+        subtitle: "Inspirational Ceramic Gift",
+        description: "A premium white ceramic mug featuring a beautiful 'Happy Women's Day' illustration. The perfect morning companion to celebrate strength and grace every day.",
+        img: "/assets/images/products/womens/happy-womens-day-mug.webp",
+        category: "Women's Day Gifts",
+        href: "/collections/womens-day"
+    },
+    {
+        id: "wd-2",
+        title: "Designer Lotus Coasters",
+        subtitle: "Hand-painted Wooden Art",
+        description: "Exquisite wooden coasters featuring vibrant lotus motifs and traditional patterns. A set of 4 designed to add a touch of ethnic elegance to any coffee table.",
+        img: "/assets/images/products/womens/designer-lotus-coasters.jpg",
+        category: "Women's Day Gifts",
+        href: "/collections/womens-day"
+    },
+    {
+        id: "wd-3",
+        title: "Little Things Hanging Board",
+        subtitle: "Floral Wall Decor",
+        description: "A heartwarming circular hanging board with the quote 'Enjoy the little things'. Adorned with delicate blue floral patterns, it's a constant reminder of joy.",
+        img: "/assets/images/products/womens/floral-hanging-board-little-things.jpg",
+        category: "Women's Day Gifts",
+        href: "/collections/womens-day"
+    },
+    {
+        id: "wd-4",
+        title: "Pichwai Cow Mobile Stand",
+        subtitle: "Traditional Desk Accessory",
+        description: "A unique ergonomic mobile stand featuring traditional Pichwai cow art and Kolam designs. Combines modern utility with timeless Indian heritage.",
+        img: "/assets/images/products/womens/pichwai-cow-kolam-mobile-stand.jpg",
+        category: "Women's Day Gifts",
+        href: "/collections/womens-day"
+    },
+    {
+        id: "wd-5",
+        title: "Embroidered Potli Collection",
+        subtitle: "Ethnic Silk Favor Bags",
+        description: "Luxury silk potli bags with intricate gold embroidery and pearl drawstrings. Available in a variety of vibrant colors, perfect for festive gifting.",
+        img: "/assets/images/products/womens/embroidered-potli-bags-collection.jpg",
+        category: "Women's Day Gifts",
+        href: "/collections/womens-day"
+    },
+    {
+        id: "wd-6",
+        title: "Mandala Art Coasters",
+        subtitle: "Ceramic Finish Wood Coasters",
+        description: "Intricate mandala designs printed on high-quality wood with a glossy finish. These coasters bring hypnotic beauty and protection to your surfaces.",
+        img: "/assets/images/products/womens/mandala-art-coasters.jpg",
+        category: "Women's Day Gifts",
+        href: "/collections/womens-day"
+    },
+    {
+        id: "wd-7",
+        title: "Good Vibes Hanging Board",
+        subtitle: "Positive Space Decor",
+        description: "A vibrant yellow 'Good Vibes Only' circular wall hanging. The sun-drenched floral design is perfect for brightening up work-from-home corners or bedrooms.",
+        img: "/assets/images/products/womens/floral-hanging-board-good-vibes.jpg",
+        category: "Women's Day Gifts",
+        href: "/collections/womens-day"
+    },
+    {
+        id: "wd-8",
+        title: "Copper Oxide Pichwai Box",
+        subtitle: "Antique Finish Gift Box",
+        description: "A premium metal box with a copper oxide finish, featuring a beautiful central Pichwai cow motif. Ideal for premium packaging or as a standalone gift.",
+        img: "/assets/images/products/womens/copper-oxide-pichwai-box-cow.jpg",
+        category: "Women's Day Gifts",
+        href: "/collections/womens-day"
+    },
+    {
+        id: "wd-9",
+        title: "Peacock Meena Jewellery Box",
+        subtitle: "Oxidised Enamel Treasure Box",
+        description: "A stunning 4x4x2 inch oxidised jewellery box with a detailed Meena peacock design on the lid. Features a lush red velvet interior for precious items.",
+        img: "/assets/images/products/womens/oxidised-meena-peacock-jewellery-box.jpg",
+        category: "Women's Day Gifts",
+        href: "/collections/womens-day"
+    },
+    {
+        id: "wd-10",
+        title: "Pichwai Art Gift Set",
+        subtitle: "Handcrafted Decor Boxes",
+        description: "A curated collection of small handcrafted gift boxes featuring traditional Pichwai and spiritual themes. Perfect for distributing high-end favors.",
+        img: "/assets/images/products/womens/traditional-pichwai-gift-boxes-set.jpg",
+        category: "Women's Day Gifts",
+        href: "/collections/womens-day"
+    },
+    {
+        id: "wd-11",
+        title: "Radha Krishna Jhoola",
+        subtitle: "Miniature Divine Keepsake",
+        description: "Exquisite miniature stands featuring the divine couple Radha and Krishna on a swing. A beautiful spiritual gift that brings peace and devotion to any space.",
+        img: "/assets/images/products/womens/miniature-krishna-radha-swings.jpg",
+        category: "Women's Day Gifts",
+        href: "/collections/womens-day"
+    },
+    {
+        id: "wd-12",
+        title: "Welcome Home Hanging Board",
+        subtitle: "Floral Entryway Decor",
+        description: "A welcoming 'Welcome to our Home' circular board featuring sunflowers and a calming blue background. A thoughtful housewarming or appreciation gift.",
+        img: "/assets/images/products/womens/floral-hanging-board-welcome-home.jpg",
+        category: "Women's Day Gifts",
+        href: "/collections/womens-day"
+    },
+    {
+        id: "wd-13",
+        title: "Oxidised Cow Utility Jars",
+        subtitle: "Ethnic Storage Collection",
+        description: "Elegant metal utility jars with Cow and floral prints, featuring clear crystal knobs. A perfect blend of traditional art and modern organisational utility.",
+        img: "/assets/images/products/womens/oxidised-meena-cow-utility-jars.jpg",
+        category: "Women's Day Gifts",
+        href: "/collections/womens-day"
+    },
+    {
+        id: "wd-14",
+        title: "Premium Surprise Gift Box",
+        subtitle: "Elegant Brown Wrap",
+        description: "A tastefully wrapped gift box in eco-friendly brown kraft paper with a vibrant pink satin ribbon. Represents the joy of discovery and the art of thoughtful gifting.",
+        img: "/assets/images/products/womens/gift-wrapped-surprise-box.jpg",
+        category: "Women's Day Gifts",
+        href: "/collections/womens-day"
     }
 ];
