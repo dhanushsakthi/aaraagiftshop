@@ -17,7 +17,7 @@ const categories = [
     {
         title: "Wedding Return Gifts",
         desc: "Magnificent tokens of eternal gratitude.",
-        img: "/assets/images/categories/promotional-gifts.jpg",
+        img: "/assets/images/categories/return-gifts.jpg",
         href: "/collections/wedding",
         span: "lg:col-span-1 lg:row-span-1"
     },
@@ -31,7 +31,7 @@ const categories = [
     {
         title: "Personalized Studio",
         desc: "Create a unique story with tailored selections.",
-        img: "/assets/images/products/womens/w3.jpg",
+        img: "/assets/images/products/womens/gift-wrapped-surprise-box.jpg",
         href: "/collections/custom",
         span: "lg:col-span-2 lg:row-span-1"
     },
