@@ -17,7 +17,7 @@ const categories = [
     {
         title: "Wedding Return Gifts",
         desc: "Magnificent tokens of eternal gratitude.",
-        img: "/assets/images/categories/return-gifts.jpg",
+        img: "/assets/images/categories/wedding-return-fixed.jpg",
         href: "/collections/wedding",
         span: "lg:col-span-1 lg:row-span-1"
     },
